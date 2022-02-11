@@ -1,0 +1,20 @@
+{
+  "name": "dom-and-test",
+  "version": "1.0.0",
+  "description": "TA-JS-advanced-dom-and-test-TJaaan",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aparna2899/TA-JS-advanced-dom-and-test-TJaaan.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aparna2899/TA-JS-advanced-dom-and-test-TJaaan/issues"
+  },
+  "homepage": "https://github.com/aparna2899/TA-JS-advanced-dom-and-test-TJaaan#readme"
+}
