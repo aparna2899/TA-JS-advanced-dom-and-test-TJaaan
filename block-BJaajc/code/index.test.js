@@ -7,6 +7,7 @@ const {
 } = require('./index');
 
 // Test function getFullName
+
 test(`Hermione + Granger is Hermione Granger`, () => {
   expect(getFullName(`Hermione`, `Granger`)).toBe(`Hermione Granger`);
 });
